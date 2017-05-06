@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/background_light">
+    <TextView
+        android:text="ConseilMoi"
+        android:layout_width="match_parent"
+        android:layout_height="64.0dp"
+        android:id="@+id/textView1"
+        android:textColor="#AAAAAA"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:gravity="center" />
+    <TextView
+        android:text="Texte relatif à ConseilMoi sur l'application"
+        android:layout_width="match_parent"
+        android:layout_height="38.5dp"
+        android:id="@+id/textView2"
+        android:textColor="#000000"
+        android:gravity="center" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="57.0dp"
+        android:id="@+id/linearLayout1">
+        <Button
+            android:text="Pro"
+            android:layout_width="67.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button1"
+            android:layout_marginBottom="0.0dp"
+            android:layout_marginTop="0.0dp" />
+        <Button
+            android:text="HIS"
+            android:layout_width="62.0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button2"
+            android:layout_marginRight="0.0dp" />
+        <Button
+            android:text="Scan"
+            android:layout_width="68.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button3" />
+        <Button
+            android:text="Cons"
+            android:layout_width="70.0dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button4" />
+        <Button
+            android:text="Avert"
+            android:layout_width="82.5dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/button5" />
+    </LinearLayout>
+</LinearLayout>

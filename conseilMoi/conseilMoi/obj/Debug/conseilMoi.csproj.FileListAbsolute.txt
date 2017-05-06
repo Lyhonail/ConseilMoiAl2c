@@ -1,0 +1,82 @@
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.csprojResolveAssemblyReference.cache
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.pdb
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.pdb
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.conseilMoi.apk
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.conseilMoi-Signed.apk
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\bin\conseilMoi.conseilMoi.apk
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\avertissement.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\conseil.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\historique.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\profil.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\produit.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\main.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\values\strings.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\icon.png
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\values\theme.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\R.cs.flag
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\uploadflags.txt
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\iconetest.jpg
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.dll
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.pdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.conseilMoi.apk
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.conseilMoi-Signed.apk
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.csprojResolveAssemblyReference.cache
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.dll
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.pdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\bin\conseilMoi.conseilMoi.apk
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\avertissement.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\conseil.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\historique.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\profil.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\produit.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\layout\main.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\values\strings.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\icon.png
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\values\theme.xml
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\iconetest.jpg
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\R.cs.flag
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\uploadflags.txt
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Microsoft.CSharp.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Mono.CSharp.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\mscorlib.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Core.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Xml.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\conseilMoi.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\Microsoft.CSharp.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\Mono.CSharp.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Mono.Data.Sqlite.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Data.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\scan.png
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.dll.mdb
+C:\Users\Vicenzo\Desktop\DropBox AL2C\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.dll.mdb
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\FastAndroidCamera.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\Xamarin.Android.Support.v4.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\ZXing.Net.Mobile.Core.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\zxing.portable.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\ZXingNetMobile.dll
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\bin\Debug\FastAndroidCamera.xml
+F:\miage\Dropbox\conseilmoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\scan.png

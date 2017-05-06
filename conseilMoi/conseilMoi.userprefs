@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6CF882DE-E9DB-4C93-946F-BA00CADB7F23}|Default">
+  <MonoDevelop.Ide.ItemProperties.conseilMoi PreferredExecutionTarget="Android.Android_Accelerated_x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="conseilMoi/MainActivity.cs">
+    <Files>
+      <File FileName="conseilMoi/Avertissement.cs" Line="1" Column="1" />
+      <File FileName="conseilMoi/MainActivity.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
