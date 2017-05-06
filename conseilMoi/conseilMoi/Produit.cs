@@ -22,6 +22,10 @@ namespace conseilMoi
 
 
             SetContentView(Resource.Layout.Produit);
+
+
+            //Récupère le ID_Produit
+            string IDproduit = Intent.GetStringExtra("IDproduit") ?? "Data not available";
         }
         
     }
