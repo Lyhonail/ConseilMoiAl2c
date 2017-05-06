@@ -9,7 +9,6 @@ using Android.OS;
 using Android.Runtime;
 using Android.Views;
 using Android.Widget;
-using ZXing.Mobile;
 
 namespace conseilMoi
 {
@@ -23,7 +22,6 @@ namespace conseilMoi
             base.OnCreate(savedInstanceState);
 
             SetContentView(Resource.Layout.Avertissement);
-            MobileBarcodeScanner.Initialize(Application);
 
             var menuProfil = FindViewById<ImageView>(Resource.Id.imageViewAvertissementProfil);
             var menuHistorique = FindViewById<ImageView>(Resource.Id.imageViewAvertissementHistorique);
@@ -42,31 +40,15 @@ namespace conseilMoi
             {
                 StartActivity(typeof(Historique));
             };
-            
-
-
+            menuScanner.Click += delegate
+            {
+                StartActivity(typeof(Produit));
+            };
             menuConseil.Click += delegate
             {
                 StartActivity(typeof(Conseil));
             };
-
-            menuScanner.Click += async (sender, e) =>
-            {
-
-                var scanner = new ZXing.Mobile.MobileBarcodeScanner();
-                var result = await scanner.Scan();
-
-                if (result != null)
-                {
-                    Intent produit = new Intent(this, typeof(Produit));
-                    produit.PutExtra("IDproduit", result.Text);
-                    StartActivity(produit);
-                }
-                else { }
-            };
-
-
-
+        
 
 
 

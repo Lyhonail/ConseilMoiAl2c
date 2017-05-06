@@ -100,8 +100,8 @@ namespace conseilMoi
 			// aapt resource value: 0x7f07000e
 			public const int button5 = 2131165198;
 			
-			// aapt resource value: 0x7f070013
-			public const int contentFrame = 2131165203;
+			// aapt resource value: 0x7f070010
+			public const int contentFrame = 2131165200;
 			
 			// aapt resource value: 0x7f07000f
 			public const int imageView2 = 2131165199;
@@ -123,15 +123,6 @@ namespace conseilMoi
 			
 			// aapt resource value: 0x7f070009
 			public const int linearLayout1 = 2131165193;
-			
-			// aapt resource value: 0x7f070012
-			public const int linearLayout2 = 2131165202;
-			
-			// aapt resource value: 0x7f070011
-			public const int linearLayout3 = 2131165201;
-			
-			// aapt resource value: 0x7f070010
-			public const int linearLayout4 = 2131165200;
 			
 			// aapt resource value: 0x7f070007
 			public const int textView1 = 2131165191;
