@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>5/6/2017 7:02:35 PM</xs:documentation>
+    <xs:documentation>5/6/2017 7:18:11 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -780,7 +780,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -1418,7 +1417,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2098,7 +2096,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -2465,7 +2462,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -2781,7 +2777,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3408,7 +3403,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -3727,7 +3721,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4062,7 +4055,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4340,7 +4332,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -4595,7 +4586,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5288,7 +5278,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -5711,7 +5700,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6098,7 +6086,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -6579,7 +6566,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -6896,7 +6882,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7213,7 +7198,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7570,7 +7554,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -7887,7 +7870,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8316,7 +8298,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -8688,7 +8669,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -8968,7 +8948,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -9406,7 +9385,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -9817,7 +9795,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10346,7 +10323,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -10814,7 +10790,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11293,7 +11268,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -11909,7 +11883,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12146,7 +12119,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12383,7 +12355,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12620,7 +12591,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -12857,7 +12827,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13094,7 +13063,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13331,7 +13299,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -13568,7 +13535,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14001,7 +13967,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14265,7 +14230,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14502,7 +14466,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14739,7 +14702,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -14976,7 +14938,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15253,7 +15214,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -15491,7 +15451,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -15807,7 +15766,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16084,7 +16042,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16414,7 +16371,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -16651,7 +16607,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17110,9 +17065,6 @@
             <xs:enumeration value="@id/button3" />
             <xs:enumeration value="@id/button4" />
             <xs:enumeration value="@id/button5" />
-            <xs:enumeration value="@id/button6" />
-            <xs:enumeration value="@id/button7" />
-            <xs:enumeration value="@id/button8" />
             <xs:enumeration value="@id/contentFrame" />
             <xs:enumeration value="@id/imageView2" />
             <xs:enumeration value="@id/imageViewAvertissementAvertissement" />
@@ -17121,9 +17073,6 @@
             <xs:enumeration value="@id/imageViewAvertissementProfil" />
             <xs:enumeration value="@id/imageViewAvertissementScann" />
             <xs:enumeration value="@id/linearLayout1" />
-            <xs:enumeration value="@id/linearLayout2" />
-            <xs:enumeration value="@id/linearLayoutBilanDesCriteres" />
-            <xs:enumeration value="@id/linearLayoutProfile" />
             <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@id/textView2" />
             <xs:enumeration value="@id/textViewAvertissementTexte" />
@@ -17208,7 +17157,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17555,7 +17503,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -17887,7 +17834,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18454,7 +18400,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -18777,7 +18722,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19174,7 +19118,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19531,7 +19474,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -19784,7 +19726,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20482,7 +20423,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -20842,7 +20782,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -21836,7 +21775,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22085,7 +22023,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22363,7 +22300,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22640,7 +22576,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -22877,7 +22812,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23114,7 +23048,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23351,7 +23284,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -23588,7 +23520,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24306,7 +24237,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -24561,7 +24491,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -24878,7 +24807,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -25623,7 +25551,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -25979,7 +25906,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26399,7 +26325,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26748,7 +26673,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -26985,7 +26909,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -27768,7 +27691,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28005,7 +27927,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28242,7 +28163,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28479,7 +28399,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -28896,7 +28815,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29133,7 +29051,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29540,7 +29457,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -29778,7 +29694,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -30094,7 +30009,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -30777,7 +30691,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -31309,7 +31222,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -31683,7 +31595,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -32882,7 +32793,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33160,7 +33070,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33490,7 +33399,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -33807,7 +33715,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34044,7 +33951,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34321,7 +34227,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34558,7 +34463,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -34942,7 +34846,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -35180,7 +35083,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -35497,7 +35399,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -35814,7 +35715,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -36131,7 +36031,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -36447,7 +36346,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36710,7 +36608,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -36947,7 +36844,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37184,7 +37080,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37421,7 +37316,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37658,7 +37552,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -37895,7 +37788,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38132,7 +38024,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38543,7 +38434,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -38780,7 +38670,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -39017,7 +38906,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40202,7 +40090,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -40624,7 +40511,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41375,7 +41261,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -41785,7 +41670,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -42542,7 +42426,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -43006,7 +42889,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43259,7 +43141,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43496,7 +43377,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -43734,7 +43614,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -44051,7 +43930,6 @@
             <xs:enumeration value="@color/theme_custom_background" />
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:color/background_dark" />
             <xs:enumeration value="@android:color/background_light" />
@@ -44419,7 +44297,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />
@@ -44656,7 +44533,6 @@
           <xs:restriction base="xs:string">
             <xs:enumeration value="@drawable/icon" />
             <xs:enumeration value="@drawable/iconetest" />
-            <xs:enumeration value="@drawable/point-vert" />
             <xs:enumeration value="@drawable/scan" />
             <xs:enumeration value="@android:drawable/alert_dark_frame" />
             <xs:enumeration value="@android:drawable/alert_light_frame" />

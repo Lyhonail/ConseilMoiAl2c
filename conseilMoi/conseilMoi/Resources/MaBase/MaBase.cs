@@ -24,8 +24,8 @@ namespace conseilMoi.Resources.MaBase
         SqliteConnection connexion; //variable de connexion à la base
                                     //Fin de déclarartion des variables
 
-        //On vérifie si la base existe ( cette fonction est optionnelle car ne sert à rien d'autre)
-        public string ExistBase() 
+
+        public string ExistBase() //On vérifie si la base existe ( cette fonction est optionnelle car ne sert à rien d'autre)
         {
             try //si pas d'erreur
             {
@@ -40,45 +40,16 @@ namespace conseilMoi.Resources.MaBase
             }
         }//fin creerBase
 
-        // Ouverture de la connexion (si la base n'existe pas elle est automatiquement créée)
-        public void ConnexionOpen() 
+        public void ConnexionOpen() // Ouverture de la connexion (si la base n'existe pas elle est automatiquement créée)
         {
             this.connexion = new SqliteConnection("Data Source=" + maBase + ";Version=3;");
             this.connexion.Open();
         }//fin ConnexionOpen
-        
-        //fermeture de la connexion
-        public void ConnexionClose() 
+
+        public void ConnexionClose() //fermeture de la connexion
         {
             this.connexion.Close();
         }//fin ConnexionClose
-
-        //création table UTILISATEUR
-        public string CreerTableUtilisateur()
-        {
-            try
-            {
-                this.ConnexionOpen();
-                SqliteCommand command = connexion.CreateCommand();
-                command.CommandText = "create table UTILISATEUR		" +
-                                        " ( " +
-                                        " ID_utilisateur integer PRIMARY KEY ASC, " +
-                                        " login          text, " +
-                                        " password       text, " +
-                                        " nom            text, " +
-                                        " prenom         text, " +
-                                        " Adresse1       text, " +
-                                        " Adresse2       text, " +
-                                        " Ville          text, " +
-                                        " CP             text, " +
-                                        " TEL            text " +
-                                        " ); ";
-                command.ExecuteNonQuery();
-                connexion.Close();
-                return "Ok creer table utilisateur";
-            }
-            catch { return "ERREUR creer table utilisateur"; }
-        }// fin CreerTable
 
 
 
