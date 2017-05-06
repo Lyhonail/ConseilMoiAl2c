@@ -183,4 +183,35 @@
             android:id="@+id/textView1"
             android:textColor="#AAAAAA" />
     </LinearLayout>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:defaultMinSizeSet="true">
+        <TextView
+            android:text="TestsComit"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="383.0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textView1"
+            android:textColor="#AAAAAA" />
+    </LinearLayout>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:defaultMinSizeSet="true">
+        <TextView
+            android:text="Code TestCommit"
+            android:textAppearance="?android:attr/textAppearanceSmall"
+            android:layout_width="384.0dp"
+            android:layout_height="match_parent"
+            android:id="@+id/textView1"
+            android:textColor="#AAAAAA" />
+    </LinearLayout>
 </LinearLayout>
