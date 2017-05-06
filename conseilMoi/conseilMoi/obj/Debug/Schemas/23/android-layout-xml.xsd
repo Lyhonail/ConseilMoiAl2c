@@ -5,7 +5,7 @@
   <xs:import schemaLocation="schemas.android.com.tools.xsd" namespace="http://schemas.android.com/tools" />
   <xs:annotation>
     <xs:documentation>v23</xs:documentation>
-    <xs:documentation>06/05/2017 19:07:44</xs:documentation>
+    <xs:documentation>06/05/2017 19:26:13</xs:documentation>
   </xs:annotation>
   <xs:group name="any-view">
     <xs:choice>
@@ -82,8 +82,6 @@
       <xs:element ref="HorizontalScrollView" />
       <xs:element ref="SearchView" />
       <xs:element ref="fragment" />
-      <xs:element ref="ZXing.Mobile.ZXingSurfaceView" />
-      <xs:element ref="ZXing.Mobile.ZxingOverlayView" />
       <xs:element ref="android.support.v4.widget.Space" />
       <xs:element ref="android.support.v4.widget.SlidingPaneLayout" />
       <xs:element ref="android.support.v4.widget.DrawerLayout" />
@@ -94,6 +92,8 @@
       <xs:element ref="android.support.v4.view.PagerTabStrip" />
       <xs:element ref="android.support.v4.view.ViewPager" />
       <xs:element ref="android.support.v4.app.FragmentTabHost" />
+      <xs:element ref="ZXing.Mobile.ZXingSurfaceView" />
+      <xs:element ref="ZXing.Mobile.ZxingOverlayView" />
       <xs:element ref="merge" />
     </xs:choice>
   </xs:group>
@@ -1400,32 +1400,6 @@
     <xs:attribute ref="android:layout_marginEnd" />
     <xs:attribute ref="android:style" />
   </xs:complexType>
-  <xs:element name="ZXing.Mobile.ZXingSurfaceView" type="ZXing.Mobile.ZXingSurfaceView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Mobile.ZXingSurfaceView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="ZXing.Mobile.ZXingSurfaceView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="SurfaceView">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
-    </xs:complexContent>
-  </xs:complexType>
-  <xs:element name="ZXing.Mobile.ZxingOverlayView" type="ZXing.Mobile.ZxingOverlayView">
-    <xs:annotation>
-      <xs:documentation>Runtime Type: ZXing.Mobile.ZxingOverlayView</xs:documentation>
-    </xs:annotation>
-  </xs:element>
-  <xs:complexType name="ZXing.Mobile.ZxingOverlayView">
-    <xs:complexContent mixed="false">
-      <xs:extension base="View">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
-    </xs:complexContent>
-  </xs:complexType>
   <xs:element name="android.support.v4.widget.Space" type="android.support.v4.widget.Space">
     <xs:annotation>
       <xs:documentation>Runtime Type: Android.Support.V4.Widget.Space</xs:documentation>
@@ -1433,10 +1407,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.widget.Space">
     <xs:complexContent mixed="false">
-      <xs:extension base="View">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="View" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.widget.SlidingPaneLayout" type="android.support.v4.widget.SlidingPaneLayout">
@@ -1446,10 +1417,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.widget.SlidingPaneLayout">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.widget.DrawerLayout" type="android.support.v4.widget.DrawerLayout">
@@ -1461,8 +1429,6 @@
     <xs:complexContent mixed="false">
       <xs:extension base="ViewGroup">
         <xs:attribute ref="tools:openDrawer" />
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
       </xs:extension>
     </xs:complexContent>
   </xs:complexType>
@@ -1473,10 +1439,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.widget.ContentLoadingProgressBar">
     <xs:complexContent mixed="false">
-      <xs:extension base="ProgressBar">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ProgressBar" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.widget.SwipeRefreshLayout" type="android.support.v4.widget.SwipeRefreshLayout">
@@ -1486,10 +1449,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.widget.SwipeRefreshLayout">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.widget.NestedScrollView" type="android.support.v4.widget.NestedScrollView">
@@ -1499,10 +1459,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.widget.NestedScrollView">
     <xs:complexContent mixed="false">
-      <xs:extension base="FrameLayout">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="FrameLayout" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.view.PagerTitleStrip" type="android.support.v4.view.PagerTitleStrip">
@@ -1512,10 +1469,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.view.PagerTitleStrip">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.view.PagerTabStrip" type="android.support.v4.view.PagerTabStrip">
@@ -1525,10 +1479,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.view.PagerTabStrip">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.view.ViewPager" type="android.support.v4.view.ViewPager">
@@ -1538,10 +1489,7 @@
   </xs:element>
   <xs:complexType name="android.support.v4.view.ViewPager">
     <xs:complexContent mixed="false">
-      <xs:extension base="ViewGroup">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="ViewGroup" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="android.support.v4.app.FragmentTabHost" type="android.support.v4.app.FragmentTabHost">
@@ -1551,10 +1499,27 @@
   </xs:element>
   <xs:complexType name="android.support.v4.app.FragmentTabHost">
     <xs:complexContent mixed="false">
-      <xs:extension base="TabHost">
-        <xs:attribute ref="android:pointerIcon" />
-        <xs:attribute ref="android:forceHasOverlappingRendering" />
-      </xs:extension>
+      <xs:extension base="TabHost" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ZXing.Mobile.ZXingSurfaceView" type="ZXing.Mobile.ZXingSurfaceView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZXingSurfaceView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="ZXing.Mobile.ZXingSurfaceView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="SurfaceView" />
+    </xs:complexContent>
+  </xs:complexType>
+  <xs:element name="ZXing.Mobile.ZxingOverlayView" type="ZXing.Mobile.ZxingOverlayView">
+    <xs:annotation>
+      <xs:documentation>Runtime Type: ZXing.Mobile.ZxingOverlayView</xs:documentation>
+    </xs:annotation>
+  </xs:element>
+  <xs:complexType name="ZXing.Mobile.ZxingOverlayView">
+    <xs:complexContent mixed="false">
+      <xs:extension base="View" />
     </xs:complexContent>
   </xs:complexType>
   <xs:element name="merge" type="merge">
