@@ -87,6 +87,38 @@ namespace conseilMoi.Resources.MaBase
             }
         }// fin CreerTable
 
+        //création de la table PRofil
+        public string CreerTableProfil()
+        {
+            try
+            {
+                this.ConnexionOpen();
+                SqliteCommand command = connexion.CreateCommand();
+                command.CommandText = "create table PROFIL		" +
+                                        " ( " +
+                                        " ID_profil PRIMARY KEY ASC, " +
+                                        " Lib_profil          text, " +
+                                        " ); ";
+                command.ExecuteNonQuery();
+                connexion.Close();
+                return "Ok creer table profil";
+            }
+            //Retourne le message d'erreur SQL
+            catch (SqliteException ex)
+            {
+                return ex.Message;
+            }
+            //Fermeture de la connexion
+            finally
+            {
+                this.ConnexionClose();
+            }
+        }// fin CreerTableProfil
+
+
+
+
+
 
 
 
