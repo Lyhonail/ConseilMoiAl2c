@@ -14,9 +14,13 @@ public final class R {
         public static final int theme_custom_background=0x7f050000;
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int iconetest=0x7f020001;
-        public static final int scan=0x7f020002;
+        public static final int historique=0x7f020000;
+        public static final int icon=0x7f020001;
+        public static final int iconetest=0x7f020002;
+        public static final int profil=0x7f020003;
+        public static final int scan=0x7f020004;
+        public static final int suggestions=0x7f020005;
+        public static final int synthese=0x7f020006;
     }
     public static final class id {
         public static final int button1=0x7f070018;
