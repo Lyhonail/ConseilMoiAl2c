@@ -1,6 +1,7 @@
 ﻿using Android.App;
 using Android.Widget;
 using Android.OS;
+using conseilMoi.Resources.MaBase;
 
 namespace conseilMoi
 {
@@ -11,7 +12,14 @@ namespace conseilMoi
         {
             base.OnCreate(bundle);
 
-            StartActivity(typeof(Avertissement));
+
+            MaBase db = new MaBase();
+            db.ExistBase();
+            db.ConnexionOpen();
+            db.ConnexionClose();
+
+
+            StartActivity(typeof(Profil));
             //SetContentView (Resource.Layout.Avertissement);
         }
     }

@@ -14,9 +14,13 @@ public final class R {
         public static final int theme_custom_background=0x7f050000;
     }
     public static final class drawable {
-        public static final int icon=0x7f020000;
-        public static final int iconetest=0x7f020001;
-        public static final int scan=0x7f020002;
+        public static final int historique=0x7f020000;
+        public static final int icon=0x7f020001;
+        public static final int iconetest=0x7f020002;
+        public static final int profil=0x7f020003;
+        public static final int scan=0x7f020004;
+        public static final int suggestions=0x7f020005;
+        public static final int synthese=0x7f020006;
     }
     public static final class id {
         public static final int button1=0x7f07000b;
@@ -24,11 +28,10 @@ public final class R {
         public static final int button3=0x7f07000d;
         public static final int button4=0x7f07000e;
         public static final int button5=0x7f07000f;
-        public static final int button6=0x7f07001b;
-        public static final int button7=0x7f07001c;
-        public static final int button8=0x7f07001d;
-        public static final int contentFrame=0x7f07001e;
-        public static final int imageView2=0x7f070017;
+        public static final int button6=0x7f07001f;
+        public static final int button7=0x7f070020;
+        public static final int button8=0x7f070021;
+        public static final int contentFrame=0x7f070022;
         public static final int imageViewAvertissementAvertissement=0x7f070007;
         public static final int imageViewAvertissementConseil=0x7f070006;
         public static final int imageViewAvertissementHistorique=0x7f070004;
@@ -39,10 +42,15 @@ public final class R {
         public static final int imageViewHistoriqueHistorique=0x7f070013;
         public static final int imageViewHistoriqueProfil=0x7f070012;
         public static final int imageViewHistoriqueScann=0x7f070014;
+        public static final int imageViewProduitAvertissement=0x7f07001c;
+        public static final int imageViewProduitConseil=0x7f07001b;
+        public static final int imageViewProduitHistorique=0x7f070019;
+        public static final int imageViewProduitProfil=0x7f070018;
+        public static final int imageViewProduitScann=0x7f07001a;
         public static final int linearLayout1=0x7f07000a;
-        public static final int linearLayout2=0x7f07001a;
-        public static final int linearLayoutBilanDesCirters=0x7f070019;
-        public static final int linearLayoutProfile=0x7f070018;
+        public static final int linearLayout2=0x7f070017;
+        public static final int linearLayoutBilanDesCirters=0x7f07001e;
+        public static final int linearLayoutProfile=0x7f07001d;
         public static final int menuAvertissement=0x7f070002;
         public static final int menuHistorique=0x7f070011;
         public static final int textView1=0x7f070008;

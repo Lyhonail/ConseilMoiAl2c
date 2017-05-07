@@ -20,38 +20,45 @@
         android:textColor="#000000"
         android:gravity="center" />
     <LinearLayout
+        android:id="@+id/menuConseil"
         android:orientation="horizontal"
         android:layout_width="match_parent"
-        android:layout_height="82.5dp"
-        android:id="@+id/linearLayout1">
-        <Button
-            android:text="Pro"
-            android:layout_width="73.0dp"
-            android:layout_height="60.5dp"
-            android:id="@+id/button1"
-            android:layout_marginBottom="0.0dp"
-            android:layout_marginTop="0.0dp" />
-        <Button
-            android:text="HIS"
-            android:layout_width="69.5dp"
-            android:layout_height="58.0dp"
-            android:id="@+id/button2"
-            android:layout_marginRight="0.0dp"
-            android:layout_marginTop="0.0dp" />
-        <Button
-            android:text="Scan"
-            android:layout_width="80.5dp"
-            android:layout_height="60.5dp"
-            android:id="@+id/button3" />
-        <Button
-            android:text="Cons"
-            android:layout_width="wrap_content"
-            android:layout_height="59.0dp"
-            android:id="@+id/button4" />
-        <Button
-            android:text="Avert"
-            android:layout_width="wrap_content"
-            android:layout_height="57.5dp"
-            android:id="@+id/button5" />
+        android:layout_height="0dip"
+        android:layout_weight="1"
+        android:gravity="center|bottom">
+        <ImageView
+            android:src="@drawable/Profil"
+            android:layout_width="50dp"
+            android:id="@+id/imageViewConseilProfil"
+            android:layout_height="50dp"
+            android:clickable="true" />
+        <ImageView
+            android:src="@drawable/Historique"
+            android:layout_width="50dp"
+            android:id="@+id/imageViewConseilHistorique"
+            android:layout_height="50dp"
+            android:clickable="true"
+            android:layout_marginLeft="10dp" />
+        <ImageView
+            android:src="@drawable/scan"
+            android:layout_width="50dp"
+            android:id="@+id/imageViewConseilScann"
+            android:layout_height="50dp"
+            android:clickable="true"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+        <ImageView
+            android:src="@drawable/Synthese"
+            android:layout_width="50dp"
+            android:id="@+id/imageViewConseilConseil"
+            android:layout_height="50dp"
+            android:clickable="true"
+            android:layout_marginRight="10.0dp" />
+        <ImageView
+            android:src="@drawable/iconetest"
+            android:layout_width="50dp"
+            android:id="@+id/imageViewConseilAvertissement"
+            android:layout_height="50dp"
+            android:clickable="true" />
     </LinearLayout>
 </LinearLayout>
