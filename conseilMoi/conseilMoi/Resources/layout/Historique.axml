@@ -41,7 +41,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
         <ImageView
-            android:src="@drawable/Synthèse"
+            android:src="@drawable/Synthese"
             android:layout_width="50dp"
             android:id="@+id/imageViewHistoriqueConseil"
             android:layout_height="50dp"
