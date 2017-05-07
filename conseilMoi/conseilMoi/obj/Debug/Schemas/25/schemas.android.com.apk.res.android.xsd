@@ -2,7 +2,7 @@
 <xs:schema xmlns:android="http://schemas.android.com/apk/res/android" attributeFormDefault="qualified" targetNamespace="http://schemas.android.com/apk/res/android" xmlns:xs="http://www.w3.org/2001/XMLSchema">
   <xs:annotation>
     <xs:documentation>v25</xs:documentation>
-    <xs:documentation>5/7/2017 11:05:37 AM</xs:documentation>
+    <xs:documentation>5/7/2017 3:21:28 PM</xs:documentation>
   </xs:annotation>
   <xs:attribute name="accessibilityLiveRegion">
     <xs:annotation>
@@ -17075,14 +17075,22 @@
             <xs:enumeration value="@id/imageViewAvertissementHistorique" />
             <xs:enumeration value="@id/imageViewAvertissementProfil" />
             <xs:enumeration value="@id/imageViewAvertissementScann" />
+            <xs:enumeration value="@id/imageViewHistoriqueAvertissement" />
+            <xs:enumeration value="@id/imageViewHistoriqueConseil" />
+            <xs:enumeration value="@id/imageViewHistoriqueHistorique" />
+            <xs:enumeration value="@id/imageViewHistoriqueProfil" />
+            <xs:enumeration value="@id/imageViewHistoriqueScann" />
             <xs:enumeration value="@id/linearLayout1" />
             <xs:enumeration value="@id/linearLayout2" />
             <xs:enumeration value="@id/linearLayoutBilanDesCirters" />
             <xs:enumeration value="@id/linearLayoutProfile" />
+            <xs:enumeration value="@id/menuAvertissement" />
+            <xs:enumeration value="@id/menuHistorique" />
             <xs:enumeration value="@id/textView1" />
             <xs:enumeration value="@id/textView2" />
             <xs:enumeration value="@id/textViewAvertissementTexte" />
             <xs:enumeration value="@id/textViewAvertissementTitre" />
+            <xs:enumeration value="@id/textViewHistoriqueTitre" />
             <xs:enumeration value="@android:id/accessibilityActionContextClick" />
             <xs:enumeration value="@android:id/accessibilityActionScrollDown" />
             <xs:enumeration value="@android:id/accessibilityActionScrollLeft" />

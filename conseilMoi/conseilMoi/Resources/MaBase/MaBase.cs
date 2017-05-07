@@ -52,7 +52,40 @@ namespace conseilMoi.Resources.MaBase
         }//fin ConnexionClose
 
 
-
+        public string CreerTableUtilisateur()//création d'une table
+        {
+            try
+            {
+                this.ConnexionOpen();
+                SqliteCommand command = connexion.CreateCommand();
+                command.CommandText = "create table UTILISATEUR		" +
+                                        " ( " +
+                                        " ID_utilisateur integer PRIMARY KEY ASC, " +
+                                        " login          text, " +
+                                        " password       text, " +
+                                        " nom            text, " +
+                                        " prenom         text, " +
+                                        " Adresse1       text, " +
+                                        " Adresse2       text, " +
+                                        " Ville          text, " +
+                                        " CP             text, " +
+                                        " TEL            text " +
+                                        " ); ";
+                command.ExecuteNonQuery();
+                connexion.Close();
+                return "Ok creer table utilisateur";
+            }
+            //Retourne le message d'erreur SQL
+            catch (SqliteException ex)
+            {
+                return ex.Message;
+            }
+            //Fermeture de la connexion
+            finally
+            {
+                this.ConnexionClose();
+            }
+        }// fin CreerTable
 
 
 
