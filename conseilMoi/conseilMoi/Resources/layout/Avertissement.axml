@@ -29,13 +29,13 @@
         android:layout_weight="1"
         android:gravity="center|bottom">
         <ImageView
-            android:src="@drawable/iconetest"
+            android:src="@drawable/Profil"
             android:layout_width="50dp"
             android:id="@+id/imageViewAvertissementProfil"
             android:layout_height="50dp"
             android:clickable="true" />
         <ImageView
-            android:src="@drawable/iconetest"
+            android:src="@drawable/Historique"
             android:layout_width="50dp"
             android:id="@+id/imageViewAvertissementHistorique"
             android:layout_height="50dp"
@@ -50,7 +50,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginRight="10dp" />
         <ImageView
-            android:src="@drawable/iconetest"
+            android:src="@drawable/Synthèse"
             android:layout_width="50dp"
             android:id="@+id/imageViewAvertissementConseil"
             android:layout_height="50dp"
