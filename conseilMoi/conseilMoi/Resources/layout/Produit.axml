@@ -9,44 +9,45 @@
         android:text="Detail Produit"
         android:textAppearance="?android:attr/textAppearanceLarge"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
+        android:layout_height="26.5dp"
         android:id="@+id/textViewAvertissementTitre"
         android:gravity="center"
         android:textColor="#AAAAAA" />
     <LinearLayout
         android:orientation="horizontal"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_gravity="center">
+        android:layout_width="match_parent"
+        android:layout_height="48.5dp"
+        android:id="@+id/linearLayout1"
+        android:minWidth="25px"
+        android:minHeight="25px">
         <Button
             android:text="Personnel"
-            android:layout_width="match_parent"
+            android:layout_width="123.5dp"
             android:layout_height="wrap_content"
             android:id="@+id/button1" />
         <Button
             android:text="Famille"
-            android:layout_width="match_parent"
+            android:layout_width="98.5dp"
             android:layout_height="wrap_content"
             android:id="@+id/button2" />
         <Button
             android:text="Mes Invités"
-            android:layout_width="match_parent"
+            android:layout_width="124.0dp"
             android:layout_height="wrap_content"
             android:id="@+id/button3" />
     </LinearLayout>
-    <TextView
-        android:text="Detail Produit"
-        android:textAppearance="?android:attr/textAppearanceLarge"
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:id="@+id/textViewAvertissementTitre"
-        android:gravity="center"
-        android:textColor="#AAAAAA" />
-    <ImageView
-        android:src="@android:drawable/ic_menu_gallery"
-        android:layout_width="92.0dp"
-        android:layout_height="76.0dp"
-        android:id="@+id/imageView2"
-        android:layout_marginRight="0.0dp"
-        android:layout_marginLeft="0.0dp" />
+        android:layout_height="420.0dp"
+        android:id="@+id/linearLayout2" />
+    <LinearLayout
+        android:orientation="horizontal"
+        android:minWidth="25px"
+        android:minHeight="25px"
+        android:layout_width="match_parent"
+        android:layout_height="242.5dp"
+        android:id="@+id/linearLayout3" />
 </LinearLayout>
