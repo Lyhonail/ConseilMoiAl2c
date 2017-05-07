@@ -24,7 +24,10 @@ public final class R {
         public static final int button3=0x7f07000c;
         public static final int button4=0x7f07000d;
         public static final int button5=0x7f07000e;
-        public static final int contentFrame=0x7f070010;
+        public static final int button6=0x7f070013;
+        public static final int button7=0x7f070014;
+        public static final int button8=0x7f070015;
+        public static final int contentFrame=0x7f070016;
         public static final int imageView2=0x7f07000f;
         public static final int imageViewAvertissementAvertissement=0x7f070006;
         public static final int imageViewAvertissementConseil=0x7f070005;
@@ -32,6 +35,9 @@ public final class R {
         public static final int imageViewAvertissementProfil=0x7f070002;
         public static final int imageViewAvertissementScann=0x7f070004;
         public static final int linearLayout1=0x7f070009;
+        public static final int linearLayout2=0x7f070012;
+        public static final int linearLayoutBilanDesCirters=0x7f070011;
+        public static final int linearLayoutProfile=0x7f070010;
         public static final int textView1=0x7f070007;
         public static final int textView2=0x7f070008;
         public static final int textViewAvertissementTexte=0x7f070001;
