@@ -13,6 +13,7 @@ using Mono.Data.Sqlite;
 using System.IO;
 using Android.Database.Sqlite;
 using Android.Util;
+using conseilMoi.Resources.Classes;
 
 namespace conseilMoi.Resources.MaBase
 {
@@ -29,7 +30,7 @@ namespace conseilMoi.Resources.MaBase
         {
             try //si pas d'erreur
             {
-                maBase = path + "/maBase.sqlite";
+                maBase = Path.Combine(path, "data4.sqlite"); ;
                 //on regarde si le fichier existe déjà
                 if (File.Exists(maBase)) { return maBase + " Existe déjà"; }
                 else { return maBase + " - à été créé"; }
@@ -48,7 +49,7 @@ namespace conseilMoi.Resources.MaBase
 
         public void ConnexionClose() //fermeture de la connexion
         {
-            this.connexion.Close();
+            connexion.Close();
         }//fin ConnexionClose
 
 
@@ -107,6 +108,37 @@ namespace conseilMoi.Resources.MaBase
             catch (SqliteException ex)
             {
                 return ex.Message;
+            }
+            //Fermeture de la connexion
+            finally
+            {
+                this.ConnexionClose();
+            }
+        }// fin CreerTableProfil
+
+        //chargement du produit
+        public Produits SelectIdProduit(String p)
+        {
+            try
+            {
+               this.ConnexionOpen();
+                string sql = "select id_produit, product_name from produit where id_produit = "+p+"; ";
+                SqliteCommand commanda = new SqliteCommand(sql, connexion);
+                SqliteDataReader result = commanda.ExecuteReader();
+                result.Read();
+                Produits produits = new Produits();
+                produits.SetProduits(result.GetString(0).ToString(), result.GetString(1).ToString());
+
+                //on retourne le produit en entier
+                return produits;
+            }
+            //Retourne le message d'erreur SQL
+            catch
+            {
+                //pas de résultat, on va donc créer un produit vide qui renvoie l'information "aucun produit"
+                Produits produits = new Produits();
+                produits.SetProduits("000", "erreur");
+                return produits;
             }
             //Fermeture de la connexion
             finally

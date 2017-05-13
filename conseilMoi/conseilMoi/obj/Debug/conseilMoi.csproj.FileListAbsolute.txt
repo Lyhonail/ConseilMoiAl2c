@@ -290,7 +290,6 @@ C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\bin\Debug\ZXing
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\bin\Debug\zxing.portable.dll
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\bin\Debug\ZXingNetMobile.dll
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\bin\Debug\FastAndroidCamera.xml
-C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.csprojResolveAssemblyReference.cache
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.dll
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.pdb
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\android\bin\conseilMoi.conseilMoi.apk
@@ -311,3 +310,7 @@ C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\res\d
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\res\drawable\synthese.png
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\R.cs.flag
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\uploadflags.txt
+C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\res\raw\data.sqlite
+C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\bin\Debug\conseilMoi.dll.mdb
+C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\android\assets\conseilMoi.dll.mdb
+C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.csprojResolveAssemblyReference.cache
