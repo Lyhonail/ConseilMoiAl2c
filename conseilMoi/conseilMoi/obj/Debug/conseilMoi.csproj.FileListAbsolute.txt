@@ -340,3 +340,6 @@ C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\andro
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Xml.dll.mdb
 C:\Users\Administrateur\Desktop\ConseilMoi\conseilMoi\conseilMoi\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\LOUAI\Desktop\a2dConsMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.csprojResolveAssemblyReference.cache
+C:\Users\LOUAI\Desktop\a2dConsMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.dll
+C:\Users\LOUAI\Desktop\a2dConsMoi\conseilMoi\conseilMoi\obj\Debug\conseilMoi.pdb
